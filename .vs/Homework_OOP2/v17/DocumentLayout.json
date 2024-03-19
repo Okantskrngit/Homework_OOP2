@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC175D0-468A-4131-B909-8BAB46FA3315}|Encapsulation\\Encapsulation.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC175D0-468A-4131-B909-8BAB46FA3315}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC175D0-468A-4131-B909-8BAB46FA3315}|Encapsulation\\Encapsulation.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC175D0-468A-4131-B909-8BAB46FA3315}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D73D0-019C-4310-B2D9-A69998710CA4}|GenericType\\GenericType.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D73D0-019C-4310-B2D9-A69998710CA4}|GenericType\\GenericType.csproj|solutionrelative:generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24D73D0-019C-4310-B2D9-A69998710CA4}|GenericType\\GenericType.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\generictype\\drinklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24D73D0-019C-4310-B2D9-A69998710CA4}|GenericType\\GenericType.csproj|solutionrelative:generictype\\drinklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\inheritancepolymorphism\\basevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|solutionrelative:inheritancepolymorphism\\basevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\inheritancepolymorphism\\baseanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|solutionrelative:inheritancepolymorphism\\baseanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|c:\\users\\okant\\source\\repos\\homework_oop2\\inheritancepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBCBED3-7752-4090-8F33-EFFDEDE30EBC}|InheritancePolymorphism\\InheritancePolymorphism.csproj|solutionrelative:inheritancepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\Encapsulation\\Student.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Student.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\Encapsulation\\Student.cs",
+              "RelativeToolTip": "Encapsulation\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:10:37.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:09:49.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrinkList.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\GenericType\\DrinkList.cs",
+              "RelativeDocumentMoniker": "GenericType\\DrinkList.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\GenericType\\DrinkList.cs",
+              "RelativeToolTip": "GenericType\\DrinkList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:08:57.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\GenericType\\Program.cs",
+              "RelativeDocumentMoniker": "GenericType\\Program.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\GenericType\\Program.cs",
+              "RelativeToolTip": "GenericType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:08:46.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseVehicles.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\BaseVehicles.cs",
+              "RelativeDocumentMoniker": "InheritancePolymorphism\\BaseVehicles.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\BaseVehicles.cs",
+              "RelativeToolTip": "InheritancePolymorphism\\BaseVehicles.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:08:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseAnimals.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\BaseAnimals.cs",
+              "RelativeDocumentMoniker": "InheritancePolymorphism\\BaseAnimals.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\BaseAnimals.cs",
+              "RelativeToolTip": "InheritancePolymorphism\\BaseAnimals.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:07:32.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "InheritancePolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\okant\\source\\repos\\Homework_OOP2\\InheritancePolymorphism\\Program.cs",
+              "RelativeToolTip": "InheritancePolymorphism\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:06:56.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
